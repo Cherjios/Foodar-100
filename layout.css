@@ -1,0 +1,21 @@
+header {
+    color:rgb(9, 59, 117);
+    font-size: 2em;
+}
+
+body {
+ background-color:rgb(33,33,33, .5);  
+ padding: 15px; 
+}
+
+h1, h2 {
+    background-color:rgb(200, 176, 87);
+    text-align: center;
+    padding: 5px;
+}
+
+p {
+    color: white;
+    padding: 10px;
+    font-size: 1.5em;
+}
