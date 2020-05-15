@@ -1,3 +1,21 @@
+
+body{
+    margin: auto;
+    padding: 5%;
+}
+#foodar{
+    padding-left: 15%;
+    font-size: 50px;
+    text-align: left;
+    word-spacing: 18em;
+}
+#find{
+    font-size:50px;
+    word-spacing: .2em;
+}
+#typezip{
+    font-size:20px;
+}
 a{
     text-decoration: none;
     font-size: 14pt;
@@ -19,8 +37,9 @@ a:hover{
 
 a:active{
     color: green;
-    background:yellow;
+    background:beige;
 }
-li{
+li, #copy{
     list-style-type: none;
+    text-align: right;
 }
